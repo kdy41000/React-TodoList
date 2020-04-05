@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {    //탭이 닫혀있어도 자동완성을 도와준다.(ctrl+space로 생성)
+        "target": "es6"
+    }
+}
