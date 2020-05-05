@@ -1,5 +1,7 @@
 ## TodoList 만들기 Repository
 
+React의 Hooks를 사용하여 구현한 TodoList
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
